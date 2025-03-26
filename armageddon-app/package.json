@@ -2,7 +2,7 @@
   "name": "armageddon-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://grvlada.github.io/web_gvk",
+  "homepage": "http://grvlada.github.io/Armageddon",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
