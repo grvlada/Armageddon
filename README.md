@@ -1,2 +1,0 @@
-# Armageddon
-armageddon application
